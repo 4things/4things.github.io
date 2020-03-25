@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+# 4things.github.io
+The 4things Political Quiz measures individuals' views on how hackerspace should be run.
